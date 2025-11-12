@@ -62,3 +62,9 @@ If you had to explain **Attention vs Self-Attention** in one line to a beginner 
 
 ## Hashtags
 #DeepLearning #NLP #AttentionMechanism #SelfAttention #Transformers #Seq2Seq #MachineLearning #AI #NeuralNetworks #DataScience
+
+
+
+https://github.com/user-attachments/assets/114eeab2-440a-47a7-bd6f-d24d82bfbbe3
+
+
