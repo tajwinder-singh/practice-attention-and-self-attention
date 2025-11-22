@@ -1,4 +1,7 @@
 # Practice of Attention and Self-Attention
+https://github.com/user-attachments/assets/114eeab2-440a-47a7-bd6f-d24d82bfbbe3
+
+---
 
 ## How I Finally Understood Attention and Self-Attention (by Building Them From Scratch)
 
@@ -65,6 +68,5 @@ If you had to explain **Attention vs Self-Attention** in one line to a beginner 
 
 
 
-https://github.com/user-attachments/assets/114eeab2-440a-47a7-bd6f-d24d82bfbbe3
 
 
