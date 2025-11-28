@@ -48,7 +48,7 @@ Finally, a **Feed-Forward Neural Network** refined the outputs before prediction
 ## Tech Stack
 - Python  
 - TensorFlow / Keras  
-- NumPy, Pandas, Matplotlib  
+- NumPy, Pandas  
 
 ---
 
